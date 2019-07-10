@@ -1,0 +1,17 @@
+
+.popupmenu {
+  position:absolute;
+  display:block;
+  width:120px;
+  border:1px solid #000000;
+  background:#c0c0c0;
+  color:#000000;
+}
+.popupmenu-item {
+  width:120px;
+  background:#c0c0c0;
+  text-align:center;
+}
+.popupmenu-item:hover {
+  background:#a0a0f0;
+}
